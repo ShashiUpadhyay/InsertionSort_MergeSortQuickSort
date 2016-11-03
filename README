@@ -1,0 +1,20 @@
+To run the code:
+Type the main command and press enter
+
+A menu driven menu will appear:
+============================
+|   MENU SELECTION          |
+============================
+|   Options:                |
+|  1. Insertion Sort        |
+|  2. Counting Sort         |
+|  3. Merge Sort            |
+|  4. Randomized Quick Sort |
+| --------------------------|
+|  0. Exit                  |
+============================
+
+
+Select the respective option as per the requirement.
+
+Press 0 to exit.
